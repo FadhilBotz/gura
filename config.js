@@ -12,7 +12,7 @@ userbot = {
    waits: "Sedang di proses",
    butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU', // buat Image Button
    packname: "FADHIL-BOT OFFICIAL",
-   author: 'Arifi Razzaq',
+   author: 'Fadhil Hafuza',
     setting: {
     admin: "only admin",
     group: "only group",
